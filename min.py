@@ -1,8 +1,8 @@
 print("Hello"," ")
-print("world!")
+print("world")
 print("People")
 print("What are you doing?")
-print("how are you?")
+print("How are you?")
 
 
 
